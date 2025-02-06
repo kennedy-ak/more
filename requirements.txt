@@ -1,0 +1,12 @@
+faiss-cpu
+sentence-transformers
+PyPDF2
+groq
+streamlit
+numpy
+tqdm
+langchain_community
+langchain
+langchain-pinecone
+pinecone
+langchain_openai
